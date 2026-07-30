@@ -9,10 +9,8 @@
             <dict>
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
-                <key>ServerAddresses</key>
-                <array>
-                    <string>0.0.0.0</string>
-                </array>
+                <key>ServerURL</key>
+                <string>https://cloudflare-dns.com/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
             <string>Custom Anti-Revoke DNS Proxy</string>
