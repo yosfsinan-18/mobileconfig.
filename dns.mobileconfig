@@ -10,36 +10,36 @@
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
                 <key>ServerURL</key>
-                <string>https://your-custom-vps-ip-or-domain.com/dns-query</string>
+                <string>https://cloudflare-dns.com/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>Ultimate Custom VPS Anti-Revoke Core Engine</string>
+            <string>Yousef Sinan Custom Anti-Revoke DNS</string>
             <key>PayloadDisplayName</key>
-            <string>Yousef Peak Core Engine</string>
+            <string>Yousef Sinan Anti-Revoke DNS</string>
             <key>PayloadIdentifier</key>
-            <string>com.yousef.peak.dns.config</string>
+            <string>com.yousefsinan.dns.config</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>00000000-0000-0000-0000-000000000001</string>
+            <string>B1C2D3E4-F5A6-7890-ABCD-EF1234567891</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Yousef Peak Ultimate Anti-Revoke Profile - Maximum Power Configuration</string>
+    <string>Yousef Sinan Profile for Sideloading Protection</string>
     <key>PayloadDisplayName</key>
-    <string>Yousef Peak Ultimate</string>
+    <string>Yousef Sinan Anti-Revoke DNS</string>
     <key>PayloadIdentifier</key>
-    <string>com.yousef.peak.profile</string>
+    <string>com.yousefsinan.profile</string>
     <key>PayloadOrganization</key>
-    <string>Yousef Core Development</string>
+    <string>Yousef Sinan</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>00000000-0000-0000-0000-000000000002</string>
+    <string>87654321-DCBA-1098-FEDC-BA9876543210</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
