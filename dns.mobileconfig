@@ -10,36 +10,36 @@
                 <key>DNSProtocol</key>
                 <string>HTTPS</string>
                 <key>ServerURL</key>
-                <string>https://cloudflare-dns.com/dns-query</string>
+                <string>https://your-custom-vps-ip-or-domain.com/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>Custom Anti-Revoke DNS Proxy</string>
+            <string>Ultimate Custom VPS Anti-Revoke Core Engine</string>
             <key>PayloadDisplayName</key>
-            <string>Anti-Revoke DNS</string>
+            <string>Yousef Peak Core Engine</string>
             <key>PayloadIdentifier</key>
-            <string>com.yousef.dns.config</string>
+            <string>com.yousef.peak.dns.config</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>A1B2C3D4-E5F6-7890-ABCD-EF1234567890</string>
+            <string>00000000-0000-0000-0000-000000000001</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Yousef Custom Anti-Revoke Profile</string>
+    <string>Yousef Peak Ultimate Anti-Revoke Profile - Maximum Power Configuration</string>
     <key>PayloadDisplayName</key>
-    <string>Yousef Anti-Revoke DNS</string>
+    <string>Yousef Peak Ultimate</string>
     <key>PayloadIdentifier</key>
-    <string>com.yousef.profile</string>
+    <string>com.yousef.peak.profile</string>
     <key>PayloadOrganization</key>
-    <string>Yousef</string>
+    <string>Yousef Core Development</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>12345678-ABCD-EF01-2345-6789ABCDEF01</string>
+    <string>00000000-0000-0000-0000-000000000002</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
