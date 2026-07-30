@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>0.0.0.0</string>
+                </array>
+            </dict>
+            <key>PayloadDescription</key>
+            <string>Custom Anti-Revoke DNS Proxy</string>
+            <key>PayloadDisplayName</key>
+            <string>Anti-Revoke DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.yousef.dns.config</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-7890-ABCD-EF1234567890</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Yousef Custom Anti-Revoke Profile</string>
+    <key>PayloadDisplayName</key>
+    <string>Yousef Anti-Revoke DNS</string>
+    <key>PayloadIdentifier</key>
+    <string>com.yousef.profile</string>
+    <key>PayloadOrganization</key>
+    <string>Yousef</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>12345678-ABCD-EF01-2345-6789ABCDEF01</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
